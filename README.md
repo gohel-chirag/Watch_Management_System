@@ -14,6 +14,7 @@ A PHP and MySQL based Watch Management / E-commerce System.
 - CSS3
 - JavaScript
 - Bootstrap
+- Ajax
 - XAMPP
 
 ## Features
