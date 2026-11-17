@@ -2,6 +2,10 @@
 
 A PHP and MySQL based Watch Management / E-commerce System.
 
+## Project Preview
+
+![Watch Management System](index.png)
+
 ## Technologies Used
 
 - PHP
@@ -29,9 +33,10 @@ A PHP and MySQL based Watch Management / E-commerce System.
 
 The database SQL file is available in:
 
-database/watch_management.sql
+`database/watch_management.sql`
 
 ## Installation
+
 1. Install XAMPP.
 2. Copy the project into `htdocs`.
 3. Start Apache and MySQL.
@@ -41,6 +46,7 @@ database/watch_management.sql
 7. Open the project in the browser.
 
 ## Developer
-Gohel Chirag
+
+**Chirag P. Gohel**
 
 BCA Semester 5
