@@ -32,7 +32,6 @@ The database SQL file is available in:
 database/watch_management.sql
 
 ## Installation
-
 1. Install XAMPP.
 2. Copy the project into `htdocs`.
 3. Start Apache and MySQL.
@@ -42,7 +41,6 @@ database/watch_management.sql
 7. Open the project in the browser.
 
 ## Developer
-
-Chirag P. Gohel
+Gohel Chirag
 
 BCA Semester 5
